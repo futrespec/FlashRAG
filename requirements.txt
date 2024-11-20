@@ -20,3 +20,4 @@ vllm>=0.4.1
 voyageai
 sentence-transformers>=3.0.1
 streamlit
+aiohttp>=3.10.11 # not directly required, pinned by Snyk to avoid a vulnerability
